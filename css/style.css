@@ -1,0 +1,136 @@
+body{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color:#606161;
+	font-size: 26px;
+	font-weight: 300;
+}
+
+h1 {
+	color:#fff;
+	font-size: 48px;
+	font-weight: 600;
+	padding: 100px;
+
+}
+
+h2{
+	text-align: left;
+	color:#fff;
+	font-size: 48px;
+	font-weight: 800;
+	padding-left: 120px;
+}
+
+h2.yellow{
+	text-align: center;
+	color:#f9e42e;
+	padding:0px;
+}
+
+h3{
+	text-align: left;	
+	font-weight: 600;
+	font-size: 40px;
+	color:#033048;
+
+}
+
+h3.author{
+	padding-top: 20px;
+	text-align: center;
+	font-size: 36px;
+	color: #fff;
+}
+
+p{
+	padding-top: 30px;
+	text-align: left;
+	max-width: 650px;
+	line-height: 150%;
+
+}
+p.legal{
+	text-align:center;
+	font-size: 18px;
+	color: #fff;
+	max-width: 100%;
+}
+
+
+a{
+	font-size: 28px;
+	padding: 18px 75px;
+	border-radius: 5px;
+	text-decoration: none;
+	font-weight:800;
+}
+
+a.primary{
+	background-color: #f9e42e;
+	color:#033048;
+}
+
+a.secondary{
+	background-color: #033048;
+	color:#fff;
+}
+
+ul{
+	text-align: left;
+	list-style: outside;
+	padding: 75px 75px 0px 75px;
+	max-width: 650px;
+}
+
+li{
+	line-height: 150%;
+
+}
+
+blockquote{
+	color:#fff;
+	font-size: 36px;
+	font-style: italic;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	line-height: 120%;
+}
+
+img.social-icons{
+	padding: 35px;
+	margin-top: 30px;
+}
+
+div.hero{
+	background-image: url("../images/header_bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 40px 0px 310px 0px
+}
+
+div.benefits{
+	padding: 100px;
+
+}
+
+div.quote {
+	background-image: url("../images/testimonial_bg.jpg");
+	padding: 85px;
+	line-height: 150%;
+
+}
+
+
+div.sign-up {
+	background-color: #f9e42e;
+	padding:50px;
+}
+
+div.social-footer{
+	background-color: #121212;
+	padding: 72px;
+}
+
+
